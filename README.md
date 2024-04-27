@@ -6,6 +6,8 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 ## Skills
 
 ### Programming Languages 👩‍💻
+![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9329aef3-c4e4-4288-9eda-a752696a9c71)
+
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML/CSS Badge](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
