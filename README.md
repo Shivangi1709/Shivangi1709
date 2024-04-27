@@ -14,10 +14,6 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-![C Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d889dca6-4cee-4a32-941e-ae8f65af4c83)
-![Python Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/57f9c23c-3465-4ecd-84ca-c18a0965e1a8)
-![Java Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e93475db-04b0-4711-b993-1385728c54e7)
-![JavaScript Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9b06066d-7386-4d16-9abc-08d110b81a2a)
 
 ### Web-Development 🌎
 
