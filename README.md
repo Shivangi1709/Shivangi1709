@@ -6,13 +6,12 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 ## Skills
 
 ### Programming Languages 👩‍💻
-![C#](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9329aef3-c4e4-4288-9eda-a752696a9c71)
-![C](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e63da2d0-f0a7-40fb-bfa6-486d0fa4e5e8)
-![Java](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/533989ab-673e-48d2-9882-8182427b96de)
-![JavaScript](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428)
-![PHP](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/40db634b-5ec1-4e93-9d20-d73ab124432f)
-![Python](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3e267bc3-8370-4c67-8fa2-fe7585ef13b1)
-
+<p align='left'>
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9329aef3-c4e4-4288-9eda-a752696a9c71" alt="Html" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e63da2d0-f0a7-40fb-bfa6-486d0fa4e5e8" alt="Html" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/533989ab-673e-48d2-9882-8182427b96de" alt="Html" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428" alt="Html" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3e267bc3-8370-4c67-8fa2-fe7585ef13b1" alt="Html" height="50" width="50" />
 
 
 ### Web-Development 🌎
@@ -43,6 +42,7 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 
 ### Other Tools
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![MySQL](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838)
 
 [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://rstudio.com/)
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
