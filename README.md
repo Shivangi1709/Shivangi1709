@@ -6,15 +6,12 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 ## Skills
 
 ### Programming Languages 👩‍💻
-![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9329aef3-c4e4-4288-9eda-a752696a9c71)
-
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML/CSS Badge](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+![C#](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9329aef3-c4e4-4288-9eda-a752696a9c71)
+![C](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e63da2d0-f0a7-40fb-bfa6-486d0fa4e5e8)
+![Java](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/533989ab-673e-48d2-9882-8182427b96de)
+![JavaScript](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428)
+![PHP](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/40db634b-5ec1-4e93-9d20-d73ab124432f)
+![Python](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/5df9458a-84ca-433e-b317-84e357958be9)
 
 
 ### Web-Development 🌎
@@ -44,7 +41,7 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 ### Frameworks
 [![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
 
-### Tools
+### Other Tools
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://rstudio.com/)
