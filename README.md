@@ -1,23 +1,6 @@
 # Hi there! 🌟
 
-My name is Shivangi Ramnial, and I'm a Data Science student in University of Paris-Seine and University of Mauritius. I have a passion for [Your Interests/Hobbies], and I love to [Another Interest/Hobby]. In my free time, you can often find me [Another Activity].
-
-## Skills
-
-- Programming Languages: Python, JavaScript, HTML/CSS, Java, C, C#
-- Tools: Git, Visual Studio Code, MySQL
-
-## Contact Information
-
-- 📧 Email: [shivangiramnial17@gmail.com](mailto:shivangiramnial17@gmail.com)
-- 🔗 LinkedIn: [(https://www.linkedin.com/in/shivangi-ramnial-932825270/)]((https://www.linkedin.com/in/shivangi-ramnial-932825270/))
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
-
-## About Me
-
-[Optional additional information about yourself, such as your education, work experience, or any other relevant details. You can also include any personal achievements or goals.]
-
-![Profile Picture](link_to_profile_picture)
+My name is Shivangi Ramnial, and I'm a Data Science student at University of Paris-Seine and University of Mauritius. I'm also a passionate gamer who loves to play No Man's Sky and Stardew Valley.
 
 ## Skills
 
@@ -36,4 +19,10 @@ My name is Shivangi Ramnial, and I'm a Data Science student in University of Par
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Azure Badge](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
+## Contact Information
+
+- 📧 Email: [shivangiramnial17@gmail.com](mailto:shivangiramnial17@gmail.com)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/shivangi-ramnial-932825270/](https://www.linkedin.com/in/shivangi-ramnial-932825270/)
+- 🐦 Twitter: [Twitter Profile](https://twitter.com/yourusername)
