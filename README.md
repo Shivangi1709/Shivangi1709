@@ -22,15 +22,11 @@ My name is Shivangi Ramnial, and I'm a Data Science student in University of Par
 ## Skills
 
 ### Programming Languages
-- Python ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-- JavaScript ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-- HTML/CSS ![HTML/CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-- Java ![Java Logo](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-- C ![C Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg)
-- C# ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML/CSS Badge](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-### Tools
-- Git ![Git Logo](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)
-- Visual Studio Code ![VS Code Logo](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)
-- MySQL ![MySQL Logo](https://upload.wikimedia.org/wikipedia/en/e/ee/MySQL_Logo.png)
 
