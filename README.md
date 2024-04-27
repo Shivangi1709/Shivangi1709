@@ -12,6 +12,7 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/533989ab-673e-48d2-9882-8182427b96de" alt="Html" height="50" width="50" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428" alt="Html" height="50" width="50" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3e267bc3-8370-4c67-8fa2-fe7585ef13b1" alt="Html" height="50" width="50" />
+</p>
 
 ### Web-Development 🌎
 <p align='left'>
@@ -23,17 +24,22 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 </p>
 
 ### IDE
-![eclipse](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d43d650e-d259-43d4-b93a-e636fa537ece)
 <p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="java" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="vscode" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/543f0218-c253-4ad8-aa58-cc298a0ddf3a)" alt="notepad++" height="50" width="50" />
+<img src="
 </p>
 
 ### Frameworks
-[![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+<p align='left'>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet" alt="ASP.NET" height="50" width="50" />
+</p>
 
 ### Other Tools
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-![MySQL](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838)
+<p align='left'>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)" alt="ASP.NET" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838)" alt="ASP.NET" height="50" width="50" />
+</p>
 
 [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://rstudio.com/)
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
