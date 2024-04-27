@@ -21,12 +21,12 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 
 ### Web-Development 🌎
 
-## Front-End
+#### Front-End
 ![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/eac1a98a-8ed4-4691-9538-0c94925e82cd)
 ![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e241ad25-9261-40ba-9dda-28579a31587f)
 ![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/defb88ab-9e14-45c4-a897-e3877d9cc2d1)
 
-## Back_End
+#### Back_End
 ![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/f34841bb-7cc0-4a04-8ce2-a9062d837989)
 
 ![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/1ba48e85-e563-4f6c-94df-6b61b603daa1)
