@@ -14,7 +14,31 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
-![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d889dca6-4cee-4a32-941e-ae8f65af4c83)
+![C Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d889dca6-4cee-4a32-941e-ae8f65af4c83)
+![Python Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/57f9c23c-3465-4ecd-84ca-c18a0965e1a8)
+![Java Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e93475db-04b0-4711-b993-1385728c54e7)
+![JavaScript Badge](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9b06066d-7386-4d16-9abc-08d110b81a2a)
+
+### Web-Development 🌎
+
+## Front-End
+![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/eac1a98a-8ed4-4691-9538-0c94925e82cd)
+![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e241ad25-9261-40ba-9dda-28579a31587f)
+![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/defb88ab-9e14-45c4-a897-e3877d9cc2d1)
+
+## Back_End
+![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/f34841bb-7cc0-4a04-8ce2-a9062d837989)
+
+![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/1ba48e85-e563-4f6c-94df-6b61b603daa1)
+
+
+### IDE
+[![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio 2022 Badge](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+![Notepad++](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/0f9d3396-7a2d-4e25-9c72-ccab1ef5a1ef)
+
+
+
 
 
 ### Frameworks
@@ -22,8 +46,7 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 
 ### Tools
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio 2022 Badge](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+
 [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://rstudio.com/)
 [![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Eclipse IDE Badge](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)
