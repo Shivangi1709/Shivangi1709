@@ -13,23 +13,14 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428" alt="Html" height="50" width="50" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3e267bc3-8370-4c67-8fa2-fe7585ef13b1" alt="Html" height="50" width="50" />
 
-
 ### Web-Development 🌎
-
-#### Front-End
 <p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
-</p>
-
-#### Back_End
-<p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
 </p>
-
 
 ### IDE
 ![eclipse](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d43d650e-d259-43d4-b93a-e636fa537ece)
