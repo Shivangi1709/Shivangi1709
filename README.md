@@ -22,24 +22,26 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 ### Web-Development 🌎
 
 #### Front-End
-![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/eac1a98a-8ed4-4691-9538-0c94925e82cd)
-![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e241ad25-9261-40ba-9dda-28579a31587f)
-![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/defb88ab-9e14-45c4-a897-e3877d9cc2d1)
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+</p>
 
 #### Back_End
-![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/f34841bb-7cc0-4a04-8ce2-a9062d837989)
-
-![image](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/1ba48e85-e563-4f6c-94df-6b61b603daa1)
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/php.svg" alt="php" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="node js" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+</p>
 
 
 ### IDE
-[![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio 2022 Badge](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
-![Notepad++](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/0f9d3396-7a2d-4e25-9c72-ccab1ef5a1ef)
-
-
-
-
+<p align='left'>
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/atom.svg" alt="C language" height="50" width="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="java" height="50" width="50" /> 
+</p>
 
 ### Frameworks
 [![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
