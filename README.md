@@ -11,7 +11,8 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 ![Java](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/533989ab-673e-48d2-9882-8182427b96de)
 ![JavaScript](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428)
 ![PHP](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/40db634b-5ec1-4e93-9d20-d73ab124432f)
-![Python](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/5df9458a-84ca-433e-b317-84e357958be9)
+![Python](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3e267bc3-8370-4c67-8fa2-fe7585ef13b1)
+
 
 
 ### Web-Development 🌎
@@ -32,9 +33,8 @@ I'm a Data Science student at University of Paris-Seine and University of Maurit
 
 
 ### IDE
+![eclipse](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d43d650e-d259-43d4-b93a-e636fa537ece)
 <p align='left'>
-![eclipse](https://github.com/Shivangi1709/Shivangi1709/assets/104305225/61e9cac7-390f-4dea-a760-c44b870209ff)
- 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="java" height="50" width="50" /> 
 </p>
 
