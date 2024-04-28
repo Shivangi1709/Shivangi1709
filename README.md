@@ -35,7 +35,7 @@ I'm Shivangi👋, a Data Science student at University of Paris-Seine and Univer
 
 ### Other Tools
 <p align='left'>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40" width="40" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/ed6ae848-c11a-49de-a95a-31ccc3d8d4e2" alt="Git" height="40" width="40" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838" alt="MySQL" height="40" width="40" />
 </p>
 
