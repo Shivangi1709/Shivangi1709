@@ -23,7 +23,9 @@ I'm Shivangi👋, a Data Science student at University of Paris-Seine and Univer
 ### IDE
 <p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="VSCode" height="40" width="40" />
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/543f0218-c253-4ad8-aa58-cc298a0ddf3a)" alt="Notepad++" height="40" width="40" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/543f0218-c253-4ad8-aa58-cc298a0ddf3a" alt="Notepad++" height="40" width="40" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/ed36277e-bd87-4be1-af07-7ddb0310530b" alt="Eclipse" height="40" width="40" />
+
 </p>
 
 ### Frameworks
