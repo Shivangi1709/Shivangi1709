@@ -20,19 +20,19 @@ I'm Shivangi🌟, a Data Science student at University of Paris-Seine and Univer
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
 </p>
 
-### IDE
+### IDE 🔨
 <p align='left'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="VSCode" height="50" width="50" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/543f0218-c253-4ad8-aa58-cc298a0ddf3a" alt="Notepad++" height="50" width="50" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/ed36277e-bd87-4be1-af07-7ddb0310530b" alt="Eclipse" height="50" width="50" />
 </p>
 
-### Frameworks
+### Frameworks 🧩
 <p align='left'>
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/7dd4a100-1611-4f8a-8b83-8f0544ee5816" alt="ASP.NET" height="50" width="80" />
 </p>
 
-### Other Tools
+### Other Tools ⚙🔧
 <p align='left'>
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838" alt="MySQL" height="60" width="70" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" /> 
