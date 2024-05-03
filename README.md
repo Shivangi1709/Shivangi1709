@@ -38,7 +38,7 @@ I'm Shivangi👋, a Data Science student at University of Paris-Seine and Univer
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg" alt="Git" height="40" width="40" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838" alt="MySQL" height="40" width="40" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3cc7b809-b7dc-47e8-ba0e-cf9519baf2ce" alt="MySQL" height="40" width="40" />
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d5a325d9-919d-491a-8fd5-37d712386236" alt="MySQL" height="40" width="40" />
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
 
 </p>
 
