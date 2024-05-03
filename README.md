@@ -31,7 +31,7 @@ I'm Shivangi👋, a Data Science student at University of Paris-Seine and Univer
 ### Frameworks
 <p align='left'>
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet" alt="ASP.NET" height="40" width="40" />
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/66bb6deb-cc32-458f-986b-78c05ed59623" alt="ASP.NET" height="40" width="40" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/c04cdc7d-1907-4235-ae09-b4947932bd02" alt="ASP.NET" height="40" width="40" />
 
 </p>
 
