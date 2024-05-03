@@ -29,7 +29,7 @@ I'm Shivangi🌟, a Data Science student at University of Paris-Seine and Univer
 
 ### Frameworks
 <p align='left'>
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/7dd4a100-1611-4f8a-8b83-8f0544ee5816" alt="ASP.NET" height="50" width="70" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/7dd4a100-1611-4f8a-8b83-8f0544ee5816" alt="ASP.NET" height="50" width="80" />
 </p>
 
 ### Other Tools
