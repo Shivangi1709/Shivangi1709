@@ -36,7 +36,8 @@ I'm Shivangi👋, a Data Science student at University of Paris-Seine and Univer
 ### Other Tools
 <p align='left'>
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838" alt="MySQL" height="50" width="60" />
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" /> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" /> 
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d8e10a3b-7303-4430-bd40-58d88af9401a" alt="Azure" width="50" height="50" /> 
 </p>
 
 [![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://rstudio.com/)
