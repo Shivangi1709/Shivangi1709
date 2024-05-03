@@ -1,6 +1,6 @@
-# Hi there! 🌟
+# Hi there!👋
 
-I'm Shivangi👋, a Data Science student at University of Paris-Seine and University of Mauritius. I'm also a passionate gamer who loves to play No Man's Sky and Stardew Valley.
+I'm Shivangi🌟, a Data Science student at University of Paris-Seine and University of Mauritius. I'm also a passionate gamer who loves to play No Man's Sky and Stardew Valley.
 
 ## Skills
 
