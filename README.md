@@ -40,9 +40,6 @@ I'm Shivangi👋, a Data Science student at University of Paris-Seine and Univer
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/2f798c7f-6349-4e23-9073-34be75420fdc" alt="R" width="50" height="50" /> 
 </p>
 
-[![RStudio Badge](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://rstudio.com/)
-[![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-
 ## Contact Information
 
 - 📧 Email: [shivangiramnial17@gmail.com](mailto:shivangiramnial17@gmail.com)
