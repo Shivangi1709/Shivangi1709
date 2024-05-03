@@ -7,10 +7,10 @@ I'm Shivangi🌟, a Data Science student at University of Paris-Seine and Univer
 ### Programming Languages 👩‍💻
 <p align='left'>
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/9329aef3-c4e4-4288-9eda-a752696a9c71" alt="C#" height="70" width="70" />
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e63da2d0-f0a7-40fb-bfa6-486d0fa4e5e8" alt="C" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/e63da2d0-f0a7-40fb-bfa6-486d0fa4e5e8" alt="C" height="70" width="70" />
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/533989ab-673e-48d2-9882-8182427b96de" alt="Java" height="60" width="60" />
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428" alt="JavaScript" height="50" width="50" />
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3e267bc3-8370-4c67-8fa2-fe7585ef13b1" alt="Python" height="50" width="50" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/b6a85657-5426-470d-b0ab-37733da65428" alt="JavaScript" height="60" width="60" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/3e267bc3-8370-4c67-8fa2-fe7585ef13b1" alt="Python" height="60" width="60" />
 </p>
 
 ### Web-Development 🌎
@@ -34,7 +34,7 @@ I'm Shivangi🌟, a Data Science student at University of Paris-Seine and Univer
 
 ### Other Tools
 <p align='left'>
-<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838" alt="MySQL" height="50" width="60" />
+<img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/536f7b7d-51f2-4efc-9023-937eafa11838" alt="MySQL" height="60" width="70" />
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" /> 
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/d8e10a3b-7303-4430-bd40-58d88af9401a" alt="Azure" width="50" height="50" /> 
 <img src="https://github.com/Shivangi1709/Shivangi1709/assets/104305225/2f798c7f-6349-4e23-9073-34be75420fdc" alt="R" width="50" height="50" /> 
